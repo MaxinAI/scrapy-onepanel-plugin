@@ -8,7 +8,7 @@ little bit helps, and credit will always be given.
 Bug reports
 ===========
 
-When `reporting a bug <https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin/issues>`_ please include:
+When `reporting a bug <https://github.com/MaxinAI/scrapy-onepanel-plugin/issues>`_ please include:
 
     * Your operating system name and version.
     * Any details about your local setup that might be helpful in troubleshooting.
@@ -24,7 +24,7 @@ articles, and such.
 Feature requests and feedback
 =============================
 
-The best way to send feedback is to file an issue at https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin/issues.
+The best way to send feedback is to file an issue at https://github.com/MaxinAI/scrapy-onepanel-plugin/issues.
 
 If you are proposing a feature:
 
@@ -37,11 +37,11 @@ Development
 
 To set up `MaxinAI/scrapy-onepanel-plugin` for local development:
 
-1. Fork `MaxinAI/scrapy-onepanel-plugin <https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin>`_
+1. Fork `MaxinAI/scrapy-onepanel-plugin <https://github.com/MaxinAI/scrapy-onepanel-plugin>`_
    (look for the "Fork" button).
 2. Clone your fork locally::
 
-    git clone git@github.com:mikheillomidze/MaxinAI/scrapy-onepanel-plugin.git
+    git clone git@github.com:MaxinAI/scrapy-onepanel-plugin.git
 
 3. Create a branch for local development::
 

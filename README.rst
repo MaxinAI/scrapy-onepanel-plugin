@@ -15,7 +15,7 @@ Overview
 
 .. |commits-since| image:: https://img.shields.io/github/commits-since/mikheillomidze/MaxinAI/scrapy-onepanel-plugin/v0.0.0.svg
     :alt: Commits since latest release
-    :target: https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin/compare/v0.0.0...master
+    :target: https://github.com/MaxinAI/scrapy-onepanel-plugin/compare/v0.0.0...master
 
 
 
@@ -34,7 +34,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin/archive/master.zip
+    pip install https://github.com/MaxinAI/scrapy-onepanel-plugin/archive/master.zip
 
 
 Documentation

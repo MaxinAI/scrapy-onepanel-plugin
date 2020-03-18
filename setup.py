@@ -34,7 +34,7 @@ setup(
     ),
     author='Mikheil Lomidze',
     author_email='mikheil.lomidze@maxinai.com',
-    url='https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin',
+    url='https://github.com/MaxinAI/scrapy-onepanel-plugin',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
@@ -64,8 +64,8 @@ setup(
         'Topic :: Utilities',
     ],
     project_urls={
-        'Changelog': 'https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin/blob/master/CHANGELOG.rst',
-        'Issue Tracker': 'https://github.com/mikheillomidze/MaxinAI/scrapy-onepanel-plugin/issues',
+        'Changelog': 'https://github.com/MaxinAI/scrapy-onepanel-plugin/blob/master/CHANGELOG.rst',
+        'Issue Tracker': 'https://github.com/MaxinAI/scrapy-onepanel-plugin/issues',
     },
     keywords=[
         # eg: 'keyword1', 'keyword2', 'keyword3',
